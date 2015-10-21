@@ -1,3 +1,8 @@
+# Coq ignore
+*.vo
+*.glob
+*.v.d
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
